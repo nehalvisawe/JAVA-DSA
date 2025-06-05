@@ -1,4 +1,4 @@
-
+//check the given no for power of two
 
 import java.util.*;
 public class Powerof2 {

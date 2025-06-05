@@ -1,0 +1,7 @@
+# flow of for loop : initialization => condition => body(true) => updation => condition => end(false)
+#we can use for loop without condition , initialization , and updation
+# if the upadation statement is not same every time, use while loops it gives freedom to update variable as we need
+
+#while loop flow : Condition => Body(if true) ,=> end(false)
+# do while loop flow : Body => condition => Body(if true), =>End(if false)
+
